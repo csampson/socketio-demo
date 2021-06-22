@@ -1,0 +1,6 @@
+main {
+  word-wrap: break-all;
+  padding-top: 5vh;
+  display: flex;
+  justify-content: center;
+}
