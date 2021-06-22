@@ -2,7 +2,8 @@
   "name": "realtime-app",
   "private": true,
   "scripts": {
-    "start": "webpack && node ./bin/www"
+    "start": "node ./bin/www",
+    "build": "webpack"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
